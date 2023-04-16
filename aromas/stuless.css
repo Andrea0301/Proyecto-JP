@@ -1,0 +1,55 @@
+body{
+    background-color:hsl(169, 74%, 63%);
+    font-family:'Poppins', sans-serif;
+    max-width: 900px; 
+    margin: 0% auto;
+}
+nav{
+    width: 100%;
+    height: 160px;
+    background-color:rgb(165, 219, 221);
+}
+nav ul li{
+    list-style-type: none;
+    display:block;
+    transition: 0.8s all;
+    padding: 10px 60px;
+}
+
+nav ul li:hover{
+    background-color:rgba(212, 169, 120, 0.986);
+    
+}
+.img-logo{
+    width: 100px;
+    padding: 30px;
+    padding-right: 5%;
+}
+nav ul{
+    display: inline-flex;
+    position: relative;
+    top: -80px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+img{
+    max-width: 100%;
+}
+.section1{
+    background-color:rgb(165, 219, 221);
+}
+
+.video {
+    width: 93%;
+    padding: 30px;
+    
+
+}
+
+.tamanioimagen{
+    width: 500px;
+    height: 350px;
+}

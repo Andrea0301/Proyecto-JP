@@ -1,0 +1,7 @@
+
+thead{
+    backgroung-color: backgroung;
+    color: white;
+        
+}
+}
